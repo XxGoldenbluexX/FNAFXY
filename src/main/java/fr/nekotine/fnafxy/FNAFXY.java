@@ -16,5 +16,4 @@ public class FNAFXY extends JavaPlugin {
 		dispatcher = new EventDispatcher();
 		Bukkit.getPluginManager().registerEvents(dispatcher, instance);
 	}
-	
 }
